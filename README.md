@@ -1,1 +1,2 @@
 # star-game
+- Andrii Nehrov
